@@ -1,2 +1,3 @@
 # todolist
-A practice project using Node.js, React, GraphQL, Apollo
+A Todolist app built using Node.js, Express, React, GraphQL, ApolloClient.
+
